@@ -1,0 +1,37 @@
+Data,Method,Parameter
+All Districts,Polynomial Regression,4
+Cluster 0,Polynomial Regression,3
+Cluster 1,Polynomial Regression,4
+Cluster 2,Polynomial Regression,3
+Cluster 3,Polynomial Regression,2
+Cluster 4,Polynomial Regression,3
+Cluster 5,Polynomial Regression,3
+Ariyalur,Polynomial Regression,2
+Chennai,Polynomial Regression,2
+Coimbatore,Polynomial Regression,2
+Cuddalore,Polynomial Regression,2
+Dharmapuri,Multiple Linear Regression,-
+Dindigul,Multiple Linear Regression,-
+Erode,Polynomial Regression,2
+Kancheepuram,Support Vector Regression,rbf
+Karur,Polynomial Regression,2
+Madurai,Multiple Linear Regression,-
+Nagapattinam,Polynomial Regression,2
+Namakkal,Polynomial Regression,2
+Perambalur,Polynomial Regression,2
+Pudukkottai,Polynomial Regression,2
+Ramanathapuram,Multiple Linear Regression,-
+Salem,Polynomial Regression,2
+Sivaganga,Polynomial Regression,2
+Thanjavur,Polynomial Regression,2
+Theni,Multiple Linear Regression,-
+The Nilgiris,Polynomial Regression,2
+Thiruvallur,Polynomial Regression,2
+Thiruvarur,Polynomial Regression,2
+Thoothukkudi,Polynomial Regression,2
+Tiruchirapalli,Polynomial Regression,2
+Tirunelveli,Multiple Linear Regression,-
+Tiruvannamalai,Support Vector Regression,rbf
+Vellore,Support Vector Regression,rbf
+Viluppuram,Polynomial Regression,2
+Virudhunagar,Multiple Linear Regression,-

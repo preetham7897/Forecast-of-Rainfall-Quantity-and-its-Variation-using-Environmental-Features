@@ -1,0 +1,37 @@
+Data,SVR Kernel,DTR Max Depth,PR Degree
+All Districts,linear,6,4
+Cluster 0,linear,5,3
+Cluster 1,rbf,6,4
+Cluster 2,linear,4,3
+Cluster 3,rbf,3,2
+Cluster 4,rbf,5,3
+Cluster 5,rbf,5,3
+Ariyalur,linear,5,2
+Chennai,rbf,5,2
+Coimbatore,rbf,4,2
+Cuddalore,rbf,5,2
+Dharmapuri,rbf,3,2
+Dindigul,linear,3,2
+Erode,linear,3,2
+Kancheepuram,rbf,5,2
+Karur,linear,4,2
+Madurai,linear,3,2
+Nagapattinam,rbf,5,2
+Namakkal,rbf,4,2
+Perambalur,linear,4,2
+Pudukkottai,rbf,4,2
+Ramanathapuram,linear,4,3
+Salem,rbf,3,2
+Sivaganga,linear,3,2
+Thanjavur,rbf,4,2
+Theni,linear,3,2
+The Nilgiris,linear,4,2
+Thiruvallur,rbf,4,2
+Thiruvarur,rbf,4,2
+Thoothukkudi,linear,4,2
+Tiruchirapalli,linear,3,2
+Tirunelveli,rbf,3,2
+Tiruvannamalai,rbf,5,2
+Vellore,rbf,4,3
+Viluppuram,rbf,5,2
+Virudhunagar,linear,3,2
